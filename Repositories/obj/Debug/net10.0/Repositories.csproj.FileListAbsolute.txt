@@ -8,6 +8,7 @@ C:\vscode\mvcprojesi\Store\Repositories\obj\Debug\net10.0\Repositories.Generated
 C:\vscode\mvcprojesi\Store\Repositories\obj\Debug\net10.0\Repositories.AssemblyInfoInputs.cache
 C:\vscode\mvcprojesi\Store\Repositories\obj\Debug\net10.0\Repositories.AssemblyInfo.cs
 C:\vscode\mvcprojesi\Store\Repositories\obj\Debug\net10.0\Repositories.csproj.CoreCompileInputs.cache
+C:\vscode\mvcprojesi\Store\Repositories\obj\Debug\net10.0\Repositories.sourcelink.json
 C:\vscode\mvcprojesi\Store\Repositories\obj\Debug\net10.0\Reposito.787EC4B2.Up2Date
 C:\vscode\mvcprojesi\Store\Repositories\obj\Debug\net10.0\Repositories.dll
 C:\vscode\mvcprojesi\Store\Repositories\obj\Debug\net10.0\refint\Repositories.dll

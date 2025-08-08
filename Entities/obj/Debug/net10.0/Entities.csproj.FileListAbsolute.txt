@@ -5,6 +5,7 @@ C:\vscode\mvcprojesi\Store\Entities\obj\Debug\net10.0\Entities.GeneratedMSBuildE
 C:\vscode\mvcprojesi\Store\Entities\obj\Debug\net10.0\Entities.AssemblyInfoInputs.cache
 C:\vscode\mvcprojesi\Store\Entities\obj\Debug\net10.0\Entities.AssemblyInfo.cs
 C:\vscode\mvcprojesi\Store\Entities\obj\Debug\net10.0\Entities.csproj.CoreCompileInputs.cache
+C:\vscode\mvcprojesi\Store\Entities\obj\Debug\net10.0\Entities.sourcelink.json
 C:\vscode\mvcprojesi\Store\Entities\obj\Debug\net10.0\Entities.dll
 C:\vscode\mvcprojesi\Store\Entities\obj\Debug\net10.0\refint\Entities.dll
 C:\vscode\mvcprojesi\Store\Entities\obj\Debug\net10.0\Entities.pdb
