@@ -1,0 +1,15 @@
+C:\vscode\mvcprojesi\Store\Repositories\bin\Debug\net10.0\Repositories.deps.json
+C:\vscode\mvcprojesi\Store\Repositories\bin\Debug\net10.0\Repositories.dll
+C:\vscode\mvcprojesi\Store\Repositories\bin\Debug\net10.0\Repositories.pdb
+C:\vscode\mvcprojesi\Store\Repositories\bin\Debug\net10.0\Entities.dll
+C:\vscode\mvcprojesi\Store\Repositories\bin\Debug\net10.0\Entities.pdb
+C:\vscode\mvcprojesi\Store\Repositories\obj\Debug\net10.0\Repositories.csproj.AssemblyReference.cache
+C:\vscode\mvcprojesi\Store\Repositories\obj\Debug\net10.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\vscode\mvcprojesi\Store\Repositories\obj\Debug\net10.0\Repositories.AssemblyInfoInputs.cache
+C:\vscode\mvcprojesi\Store\Repositories\obj\Debug\net10.0\Repositories.AssemblyInfo.cs
+C:\vscode\mvcprojesi\Store\Repositories\obj\Debug\net10.0\Repositories.csproj.CoreCompileInputs.cache
+C:\vscode\mvcprojesi\Store\Repositories\obj\Debug\net10.0\Reposito.787EC4B2.Up2Date
+C:\vscode\mvcprojesi\Store\Repositories\obj\Debug\net10.0\Repositories.dll
+C:\vscode\mvcprojesi\Store\Repositories\obj\Debug\net10.0\refint\Repositories.dll
+C:\vscode\mvcprojesi\Store\Repositories\obj\Debug\net10.0\Repositories.pdb
+C:\vscode\mvcprojesi\Store\Repositories\obj\Debug\net10.0\ref\Repositories.dll

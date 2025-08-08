@@ -1,0 +1,15 @@
+@using Entities.Models;
+@model Product
+
+
+<div class="col-sm-12 col-lg-3 col-md-4 m-3">
+
+    <div class="card" style="width: 18rem;">
+        <img src="images/cool.png" class="card-img-top" alt="just a cool photo">
+        <div class="card-body">
+            <h5 class="card-title">@Model.ProductName</h5>
+            <p class="card-text">@Model.Price</p>
+            <a asp-action="Get" asp-controller="Product" asp-route-id="@Model.ProductId" class="btn btn-primary">Go item</a>
+        </div>
+    </div>
+</div>

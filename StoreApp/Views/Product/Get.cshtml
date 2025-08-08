@@ -1,0 +1,13 @@
+@{
+    Layout = "Layout";
+}
+
+@model Product
+
+
+<h3>@Model.ProductName</h3>
+<p>@Model.Price</p>
+<div class="btn-group">
+    <a class="btn btn-dark" asp-controller="Home" asp-action="Index" >Home</a>
+    <a class="btn btn-primary" asp-controller="Product" asp-action="Index" >Prooduct</a>
+</div>

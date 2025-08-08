@@ -1,0 +1,21 @@
+@{
+    Layout = "Layout";
+}
+
+@model IQueryable<Product>
+@using Entities.Models;
+
+@section Footer{
+    <div>
+        only for Index footer
+    </div>
+}
+<div class="row my-3">
+@foreach (Product prd in Model)
+{
+    
+        <partial name="_ProductCard" model="@prd"></partial>
+    
+    
+}
+</div>
